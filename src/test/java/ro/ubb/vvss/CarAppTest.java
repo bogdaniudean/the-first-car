@@ -2,7 +2,7 @@ package ro.ubb.vvss;
 
 import static org.junit.Assert.assertTrue;
 
-class CarAppTest {
+public class CarAppTest {
     @org.junit.Test
     public void test1()
     {
